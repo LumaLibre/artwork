@@ -8,4 +8,4 @@
 
 > Various artwork and logos created for and used by [LumaMC](https://lumamc.net).
 
-**All artwork created by:** @Kataray
+**All artwork created by:** [@Kataray](https://github.com/Kataray)
